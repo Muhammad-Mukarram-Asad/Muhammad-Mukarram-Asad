@@ -25,7 +25,11 @@ Always trying to simplify complex things and making them to amplify easily.
 
 ## 📫 How to reach me
 - **Email:** mukarramasad89@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad
+- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad  
+
+## ✌ Roadmap Card  
+- ** Card:** <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6781517970129741a8dee240?variant=dark" alt="roadmap.sh"/></a>
+
 
 Feel free to reach out if you have any questions or just want to connect!
 
