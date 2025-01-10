@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Mukarram Asad
 
-<!--
-**Muhammad-Mukarram-Asad/Muhammad-Mukarram-Asad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate developer with a keen interest in technology and innovation.  
+Like to collaborate with colleagues and other people in their development problems.  
+Always trying to simplify complex things and making them to amplify easily.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** JavaScript, Python, Java
+- **Web Development:** HTML, CSS, React, Next.js, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, GitHub, VS-Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Qualifications
+- **Bachelor's Degree in Computer Science** from University of Karachi
+- **Certifications:**
+  - Web & App Development from SMIT
+  - Getting started with Node.js from SimpliLearn  
+  - Intro of MERN Stack from SimpliLearn
+
+## 🎯 Future Goals
+- Contributing to open source projects
+- Expanding my knowledge in AI and Data Science & Cyber Security
+- Building impactful software solutions
+
+## 📫 How to reach me
+- **Email:** mukarramasad89@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad
+
+Feel free to reach out if you have any questions or just want to connect!
+
+🌟 Thank you for visiting my profile! 🌟
