@@ -9,7 +9,7 @@ Always trying to simplify complex things and making them to amplify easily.
 - **Programming Languages:** JavaScript, Python, Java
 - **Web Development:** HTML, CSS, React, Next.js, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git, GitHub, VS-Code
+- **Tools & Technologies:** Git, GitHub, GitLab, VS-Code
 
 ## 🎓 Qualifications
 - **Bachelor's Degree in Computer Science** from University of Karachi
