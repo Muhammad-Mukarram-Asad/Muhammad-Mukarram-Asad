@@ -27,8 +27,6 @@ Always trying to simplify complex things and making them to amplify easily.
 - **Email:** mukarramasad89@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mukarram-asad  
 
-## ✌ Roadmap Card  
-
 Feel free to reach out if you have any questions or just want to connect!
 
 🌟 Thank you for visiting my profile! 🌟
