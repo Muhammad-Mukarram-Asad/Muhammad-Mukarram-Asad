@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I am a passionate developer with a keen interest in technology and innovation.  
-Like to collaborate with colleagues and other people in their development problems.  
+Like to collaborate with colleagues and other people in their development journey.  
 Always trying to simplify complex things and making them to amplify easily.
 
 ## 🛠 Skills
