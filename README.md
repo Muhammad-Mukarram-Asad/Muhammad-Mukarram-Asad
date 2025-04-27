@@ -25,7 +25,8 @@ Always trying to simplify complex things and making them to amplify easily.
 
 ## 📫 How to reach me
 - **Email:** mukarramasad89@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad  
+- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad
+- **Zety Resume Profile:** https://bold.pro/my/m-mukarramasad-2025
 
 Feel free to reach out if you have any questions or just want to connect!
 
