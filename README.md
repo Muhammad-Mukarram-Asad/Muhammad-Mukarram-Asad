@@ -1,33 +1,26 @@
-# Hi there! 👋 I'm Muhammad Mukarram Asad
+# Hi, I'm Muhammad Mukarram Asad 👋
 
-## 🚀 About Me
-I am a passionate developer with a keen interest in technology and innovation.  
-Like to collaborate with colleagues and other people in their development journey.  
-Always trying to simplify complex things and making them to amplify easily.
+Full Stack Developer at Hysab Kytab (Jaffer Business Systems), working primarily in React.js and Next.js, with growing backend experience in Node.js and Express. Independently built and shipped a production real-time computer vision monitoring dashboard for Lucky Textile Mills, one of Pakistan's largest textile manufacturers.
 
-## 🛠 Skills
-- **Programming Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Next.js, Node.js, Express.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git, GitHub, GitLab, VS-Code
+## What I work with
 
-## 🎓 Qualifications
-- **Bachelor's Degree in Computer Science** from University of Karachi
-- **Certifications:**
-  - Web & App Development from SMIT
-  - Getting started with Node.js from SimpliLearn  
-  - Intro of MERN Stack from SimpliLearn
+**Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, TanStack Query, Responsive Web Design  
+**Backend:** Node.js, Express.js, RESTful APIs, Server-Sent Events (SSE)  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, GitLab, basic Docker
 
-## 🎯 Future Goals
-- Contributing to open source projects
-- Expanding my knowledge in AI and Data Science & Cyber Security
-- Building impactful software solutions
+## Background
 
-## 📫 How to reach me
-- **Email:** mukarramasad89@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/mukarram-asad
-- **Portfolio:** https://mukarram-portfolio.netlify.app/
+BSCS from University of Karachi. Started as a frontend intern at Hysab Kytab in 2023, moved through the MTO program, and I'm now a full-time Full Stack Developer there — currently the platform serves 7,000+ active users.
 
-Feel free to reach out if you have any questions or just want to connect!
+## Currently focused on
 
-🌟 Thank you for visiting my profile! 🌟
+- Strengthening backend skills with real, deployable projects (not just tutorials)
+- Picking up production database design and API ownership
+- Open to interesting frontend or full-stack opportunities
+
+## Reach me
+
+- Email: mukarramasad89@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mukarram-asad
+- Portfolio: https://mukarram-portfolio.netlify.app/
