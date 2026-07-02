@@ -1,13 +1,13 @@
 # Hi, I'm Muhammad Mukarram Asad 👋
 
-Full Stack Developer at Hysab Kytab (Jaffer Business Systems), working primarily in React.js and Next.js, with growing backend experience in Node.js and Express. Independently built and shipped a production real-time computer vision monitoring dashboard for Lucky Textile Mills, one of Pakistan's largest textile manufacturers.
+Full Stack Developer at Hysab Kytab (Jaffer Business Systems), working primarily in React.js and Next.js, with growing backend experience in Node.js and Express. Independently built and shipped a production real-time computer vision monitoring dashboard for one of the Pakistan's largest textile manufacturers.
 
 ## What I work with
 
-**Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, TanStack Query, Responsive Web Design  
-**Backend:** Node.js, Express.js, RESTful APIs, Server-Sent Events (SSE)  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, basic Docker
+**Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, TanStack Query,Redux Toolkit, Tailwind.css  
+**Backend:** Python, FastAPIs, Server-Sent Events (SSE), Kafka, Adminer 
+**Databases:** PostgreSQL
+**Tools:** Git, GitHub, GitLab, Docker
 
 ## Background
 
